@@ -1,3 +1,27 @@
+<div align="center">
+
+[![GIMP](https://img.shields.io/badge/GIMP-3.10%2B-5c5543?style=for-the-badge&logo=gimp&logoColor=white)](#)
+[![IA Local](https://img.shields.io/badge/IA-Local%20%2F%20Offline-2563eb?style=for-the-badge)](#)
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-orange?style=for-the-badge)](#)
+
+---
+
+<table align="center" width="100%">
+  <tbody>
+    <tr align="center">
+      <td>
+        <img src="./img-example/access.png" alt="Acceso" width="100%" style="border-radius: 8px;" />
+      </td>
+      <td>
+        <img src="./img-example/subject-selected.png" alt="Máscara de sujeto en GIMP 3" width="100%" style="border-radius: 8px;" />
+      </td>
+      <td>
+        <img src="./img-example/edit.png" alt="Sujeto recortado y aislado del fondo" width="100%" style="border-radius: 8px;" />
+      </td>
+  </tbody>
+</table>
+</div>
+
 # Smart Subject — selección de sujeto con IA local para GIMP
 
 Módulo instalado y probado en **GIMP 2.10.38, Windows x64**. Incluye el modelo,
