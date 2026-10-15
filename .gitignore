@@ -1,0 +1,8 @@
+/runtime/
+__pycache__/
+*.pyc
+*.pyo
+/tests/*.log
+/tests/*.png
+/tests/*.xcf
+/tests/fixtures/

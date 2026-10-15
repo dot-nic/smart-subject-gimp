@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "unicode_path": true,
+  "doctor": {
+    "ok": true,
+    "model": "birefnet-lite-512-native-fp16.onnx",
+    "input_size": [
+      512,
+      512
+    ],
+    "input_type": "tensor(float)",
+    "providers": [
+      "CPUExecutionProvider"
+    ],
+    "peak_rss_mb": 386.48
+  },
+  "inference": {
+    "progress": 1,
+    "message": "Finalizado",
+    "seconds": 2.959,
+    "load_seconds": 1.581,
+    "peak_rss_mb": 591.34,
+    "size": [
+      612,
+      408
+    ]
+  }
+}

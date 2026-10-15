@@ -1,0 +1,154 @@
+{
+  "registered": [
+    "python-fu-smart-subject-mask", 
+    "python-fu-smart-subject-select"
+  ], 
+  "procedures": {
+    "gimp-image-select-item": {
+      "params": [
+        [
+          13, 
+          "image", 
+          "The image"
+        ], 
+        [
+          0, 
+          "operation", 
+          "The desired operation with current selection { CHANNEL-OP-ADD (0), CHANNEL-OP-SUBTRACT (1), CHANNEL-OP-REPLACE (2), CHANNEL-OP-INTERSECT (3) }"
+        ], 
+        [
+          11, 
+          "item", 
+          "The item to render to the selection"
+        ]
+      ]
+    }, 
+    "file-png-save2": {
+      "params": [
+        [
+          0, 
+          "run-mode", 
+          "The run mode { RUN-INTERACTIVE (0), RUN-NONINTERACTIVE (1) }"
+        ], 
+        [
+          13, 
+          "image", 
+          "Input image"
+        ], 
+        [
+          16, 
+          "drawable", 
+          "Drawable to export"
+        ], 
+        [
+          4, 
+          "filename", 
+          "The name of the file to export the image in"
+        ], 
+        [
+          4, 
+          "raw-filename", 
+          "The name of the file to export the image in"
+        ], 
+        [
+          0, 
+          "interlace", 
+          "Use Adam7 interlacing?"
+        ], 
+        [
+          0, 
+          "compression", 
+          "Deflate Compression factor (0--9)"
+        ], 
+        [
+          0, 
+          "bkgd", 
+          "Write bKGD chunk?"
+        ], 
+        [
+          0, 
+          "gama", 
+          "Write gAMA chunk?"
+        ], 
+        [
+          0, 
+          "offs", 
+          "Write oFFs chunk?"
+        ], 
+        [
+          0, 
+          "phys", 
+          "Write pHYs chunk?"
+        ], 
+        [
+          0, 
+          "time", 
+          "Write tIME chunk?"
+        ], 
+        [
+          0, 
+          "comment", 
+          "Write comment?"
+        ], 
+        [
+          0, 
+          "svtrans", 
+          "Preserve color of transparent pixels?"
+        ]
+      ]
+    }, 
+    "gimp-file-save": {
+      "params": [
+        [
+          0, 
+          "run-mode", 
+          "The run mode { RUN-INTERACTIVE (0), RUN-NONINTERACTIVE (1), RUN-WITH-LAST-VALS (2) }"
+        ], 
+        [
+          13, 
+          "image", 
+          "Input image"
+        ], 
+        [
+          16, 
+          "drawable", 
+          "Drawable to save"
+        ], 
+        [
+          4, 
+          "filename", 
+          "The name of the file to save the image in"
+        ], 
+        [
+          4, 
+          "raw-filename", 
+          "The name as entered by the user"
+        ]
+      ]
+    }, 
+    "gimp-layer-set-offsets": {
+      "params": [
+        [
+          14, 
+          "layer", 
+          "The layer"
+        ], 
+        [
+          0, 
+          "offx", 
+          "Offset in x direction"
+        ], 
+        [
+          0, 
+          "offy", 
+          "Offset in y direction"
+        ]
+      ]
+    }
+  }, 
+  "gimp_version": [
+    2, 
+    10, 
+    38
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "selection_debug": {
+    "value_without_offset": 128, 
+    "bounds": [
+      1, 
+      20, 
+      17, 
+      55, 
+      47
+    ], 
+    "value_at_offset": 128
+  }, 
+  "ok": true, 
+  "checks": [
+    "comando seleccionar registrado", 
+    "comando mascara registrado", 
+    "seleccion creada 0 (11, 9)", 
+    "sin capas temporales 0 (11, 9)", 
+    "pixeles originales intactos 0 (11, 9)", 
+    "capa activa conservada", 
+    "seleccion suave con offsets", 
+    "mascara creada", 
+    "mascara suave", 
+    "seleccion previa preservada", 
+    "mascara existente combinada", 
+    "mascara no destructiva", 
+    "mascara activada", 
+    "exportacion PNG aislada", 
+    "seleccion creada 0 (-7, -5)", 
+    "sin capas temporales 0 (-7, -5)", 
+    "pixeles originales intactos 0 (-7, -5)", 
+    "capa activa conservada", 
+    "seleccion suave con offsets", 
+    "mascara creada", 
+    "mascara suave", 
+    "seleccion previa preservada", 
+    "mascara existente combinada", 
+    "mascara no destructiva", 
+    "mascara activada", 
+    "exportacion PNG aislada", 
+    "seleccion creada 1 (5, 7)", 
+    "sin capas temporales 1 (5, 7)", 
+    "pixeles originales intactos 1 (5, 7)", 
+    "capa activa conservada", 
+    "seleccion suave con offsets", 
+    "mascara creada", 
+    "mascara suave", 
+    "seleccion previa preservada", 
+    "mascara existente combinada", 
+    "mascara no destructiva", 
+    "mascara activada", 
+    "exportacion PNG aislada"
+  ], 
+  "gimp_version": [
+    2, 
+    10, 
+    38
+  ]
+}

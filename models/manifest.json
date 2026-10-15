@@ -1,0 +1,19 @@
+{
+  "repository": "studioludens/birefnet-lite-512",
+  "revision": "962e67969ec6acec9c19fab76acee4f5e22e990c",
+  "upstream_file": "onnx/model_fp16.onnx",
+  "file": "birefnet-lite-512-native-fp16.onnx",
+  "sha256": "e4850a9c9fafee431130a6d1efc3e05811f0f64eb69953272b99234e5ae971bd",
+  "bytes": 90482370,
+  "license": "MIT",
+  "input_size": 512,
+  "output": "logits",
+  "normalization": "imagenet",
+  "upstream_sha256": "eff9216bb2f9d3f023d9c2b7196845a7485739ab1f231593633e4d2344ffc516",
+  "upstream_bytes": 98484532,
+  "transforms": [
+    "20 expanded deformable convolutions replaced by native ONNX DeformConv",
+    "Constant tensors stored as initializers",
+    "ORT 1.31.0 BASIC offline optimization"
+  ]
+}

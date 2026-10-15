@@ -1,0 +1,19 @@
+{
+  "select_seconds": 5.066, 
+  "mask_seconds": 4.497, 
+  "ok": true, 
+  "checks": [
+    "sujeto seleccionado por comando registrado", 
+    "seleccion conserva pixeles", 
+    "seleccion conserva estructura", 
+    "mascara creada por comando registrado", 
+    "mascara conserva seleccion", 
+    "mascara conserva pixeles", 
+    "temporales de imagen eliminados"
+  ], 
+  "gimp_version": [
+    2, 
+    10, 
+    38
+  ]
+}

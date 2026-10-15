@@ -1,0 +1,19 @@
+{
+  "checks": [
+    "entrada inexistente no crea salida",
+    "PNG gris de dimensiones originales",
+    "pixeles transparentes excluidos"
+  ],
+  "metrics": {
+    "progress": 1,
+    "message": "Finalizado",
+    "seconds": 2.708,
+    "load_seconds": 1.422,
+    "peak_rss_mb": 591.07,
+    "size": [
+      612,
+      408
+    ]
+  },
+  "ok": true
+}
